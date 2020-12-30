@@ -1,0 +1,92 @@
+Location/Name,Owner address,Explorer,Sitebot,Earnings (HNT),Group,Active,Notes,Suspected vector,rewards_24h,rewards_prev_24h,,rewards_72h,rewards_prev_72h,,rewards_7d,rewards_prev_7d,,rewards_30d,rewards_prev_30d,,rewards_alltime
+Found a suspicious looking group of hotspots? Please add them to this list,,,,,,,,,,,,,,,,,,,,,
+Feel free to add additional information or columns as well,,,,,,,,,,,,,,,,,,,,,
+Please refrain from including personally identifiable information,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+Hotspot modifications dashboard: https://etl.dewi.org/public/dashboard/9d6a7a38-755e-4380-8291-7c6f60c628cb,,,,,,,,,,,,,,,,,,,,,
+12/20/2020: several suspicuous wallets found based on number of re-asserts in: https://etl.dewi.org/public/dashboard/9d6a7a38-755e-4380-8291-7c6f60c628cb including several Port Huron and Modesto wallets previously not listed. Went through all > 40 re-asserts.,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,"750k+ Red, 200k+ Yellow, 100k+ Orange",,,,,Data populated as of 12/22/2020 -- does not account for variable block times over last ~60 days (between 50-70s),,,,,,,,,,,,
+"Port Huron; Fort Gratiot; Waverly, NY; Gillete, WY; Dominican Republic",13JyFksMcfyMTpycMy1XStssPWcQJut61n68sMUhG1cJQBmwUWi,link,link,750k+,Port Huron,Y,Port Huron also operates legitimate hotspots,Likely hacked OG hotspot with custom middleman,404.01,557.15,-27.49%,1736,4618,-62.40%,9124,18845,-51.58%,70877,53974,23.85%,789086
+,14cSUPEX76FLdhjgyT6Y6fBFYzeJdTjTMDDrHDnpeA8tSXmYrfq,link,link,218k+,Port Huron,Y,Gaming predates middleman code so they probably have their own software,,36.12,96.58,-62.60%,322,726,-55.65%,1327,2282,-41.87%,7334,1895,74.16%,232657
+"Dominican Republic; Fort Gratiot; Havre, MT",13gXUZcSK6RBAByDQmETVNgqXBQcSi7agTe1gN7mWevVJSY6qsp,link,link,1mil+,Port Huron,Y,,Likely hacked OG hotspot with custom middleman,135.49,282.33,-52.01%,1040,1876,-44.58%,3889,3682,5.63%,15199,22263,-46.47%,1082532
+,13ZvzzTLAju2BhX1qUmZYPBy8MEvpzW8DHDBpLXftyviHffT9Qs,link,link,27k+,Port Huron,Y,,,89.47,103.2,-13.30%,414,668,-37.93%,1319,3806,-65.36%,10443,7869,24.65%,30116
+"Havre, MT; Stonington, CT",13pSQBKuR1AZVynmBgyfdKo7gFaKEMmM63BV8mKRGBLqo5j3GSx,link,link,54k+,Stonington,Y,Distinct from PH group. This is definitely Port Huron but can't say why without personally identifiable information.,,56.71,32.36,75.25%,139,103,34.42%,353,940,-62.45%,3568,4118,-15.43%,55159
+,14iFzQ429bvb8gFuwcwjdutbxQMGU1d18q1Wu6WFMegP7P1Ycu2,link,link,107k+,Stonington,Y,Includes legit nodes?,,378.36,257.18,47.12%,1051,958,9.74%,2463,3867,-36.33%,17783,19799,-11.34%,111210
+"Truth and Consequences, NM; Roswell, NM; Vail, AZ; Venice, IT; Corona De Tucon, AZ",13uegfBpyoVtigrbMLeAHETVbAuMxSfwfezBDq5vCHHFwPuVo43,link,link,100k+,Port Huron?,Y,Linked to Port Huron via shared cluster activity. They re-assert often. Possibly distinct cluster,,32.23,109.3,-70.51%,303,1256,-75.91%,2482,5928,-58.13%,13533,33249,-145.69%,116950
+,13pXNJvESrFVKrWP8KzXJrE1a1ncA5S5DaZa2z7i3H8mrcC13vL,link,link,22k+,Port Huron?,Y,"Moving some hotspots to Venice, IT",,50.26,120.65,-58.34%,337,938,-64.08%,2062,4043,-49.00%,11229,10303,8.25%,22848
+,13jFJ9LmooHjv6TnFWNryLDrDU3bEBf3FpCWfcdUN6NEDatm8o1,link,link,,Port Huron?,,Corona De Tuscon nodes (being moved around),,0.25,6.29,-96.03%,13,45,-70.50%,122,489,-75.00%,736,3292,,27591
+Wildwood/Jersey Shore/Philadelphia/Other NJ,13oBvk7EmZ5nMckycXRoBrR7ymXeFWn86gFhso14QnJWmB8HJQG,link,link,1mil+,NJ Super Cluster,Y,This is one of the largest groups,Likely hacked OG hotspot with custom software,400.99,719.42,-44.26%,2187,4645,-52.91%,9053,18950,-52.23%,74122,127184,-71.59%,1174797
+,13g52tSSbq32mAE65efVSQ1TELhcFEC4F3tRa78vE3FoiZNNo32,link,link, ,NJ Super Cluster,Y,"It looks like 100% of their hotspots are fake, perfectly located for HIP17",Gaming predates middleman public code release,61.5,37.41,64.39%,171,405,-57.89%,722,1474,-51.05%,5748,6375,-10.91%,34060
+,14MFM9WzVg5V7a5PUDcUq6ZfxGPiQRHtBpjwiqKoov54hJCUE9v,link,link,95k+,False Positive,,This is real.,,777.55,819.27,-5.09%,2347,2396,-2.01%,5163,3691,39.90%,20062,24199,-20.62%,97815
+"Modesto, CA",13hc8BeaE5kUiMYW1FLU8dnV4t2XUM4sWxHxM2E34NF3tnJdiXj,link,link,500k+,Modesto,Y,Mostly dead for last many months. POC 10.,Low tech clustering and using RF,399.09,309.07,29.13%,1111,1853,-40.07%,3604,5566,-35.25%,19641,23035,-17.28%,562187
+,14RhEs3bVE9WYryYjdBG3LksJVhd9Wp5fxPLRQeHebTrPKReeyE,link,link,690k+,Modesto,Y,,,208.19,261.44,-20.37%,751,1029,-26.97%,2103,2547,-17.45%,11461,15197,-32.60%,708503
+,14Wjc2QKa3pqgHZD7NwAQ2j8jzs3Mmc54hoauGXbtC1bPCDviow,link,link,310k+,Modesto,Y,,,275.74,295.35,-6.64%,906,729,24.24%,1808,1921,-5.88%,7302,9894,-35.50%,329089
+,12zNbH3npnuefaA7kD2mka1ZHRcKZYeM737ZR1RKZq6K4uFwfwG,link,link,260k+,Modesto,Y,,,374.66,371.93,0.73%,1112,1048,6.08%,2531,3381,-25.16%,12463,21933,-75.98%,293431
+,14Kr1J64L2BZHRc2Ncvginn5BvrAmnUYuoFwf7Ywe6WnTLtPugM,link,link,680k+,Modesto,,,,529.62,526.44,0.60%,1486,1240,19.75%,3047,2905,4.88%,12795,16931,-32.32%,780819
+,13T7ejjWpzYvUk1arQJdWRDZhBur7MTJkNKkQyLRy7C1adymfsv,link,link,5k,Modesto,,,,98.16,116.3,-15.60%,371,338,9.80%,815,807,0.96%,3437,1248,63.69%,4685
+,14ocuG4H2WWxE3tNK4Znq4p3TY7APHExLVL96gzK8ZvJ6nLsrDW,link,link,141k+,Modesto,,,,330.25,299.46,10.28%,802,746,7.47%,1767,1585,11.52%,6336,10116,-59.67%,155860
+Modesto and Pittsburgh,14FUSqWYcWfQd7KQjrDSPXehsxvtJqxFf2q2QdxakbH4597KCz9,link,link,424k+,Modesto,,,,975.46,997.21,-2.18%,2843,2954,-3.78%,6497,5559,16.87%,26943,28808,-6.92%,440912
+,13gMhWvBKCw9gjjACyRRzuG9NcD2VDKKB2RFStEGqeKuE851Dn6,link,link,171k+,Modesto,,,,446.93,453.56,-1.46%,1375,1747,-21.27%,3480,3644,-4.50%,16724,20549,-22.87%,182877
+"Minneapolis, MN",145kQhY9Asu5ZxCpd1zifSkr2VYhDLWXQqgpQhgs8TEwA6SWWLa,link,link,600k+,Minneapolis,?,Modesto related,,133.91,406.26,-67.04%,1239,3590,-65.48%,5058,3877,30.45%,14640,14181,3.14%,646169
+,13eR2zrdkzdQkdtsYajyCTFsnV6WDTgstqxMGCwHMYUWJrH4Hpa,link,link,113k+,Minneapolis,,Minneapolis Part 2?,,408,841.18,-51.50%,1901,3359,-43.41%,5754,4509,27.60%,21700,20061,7.56%,121140
+,14me7Go2B2yZwXGjjoy2MhdgH1WdwPB3XBFZqcdzYSLMza36nS5,link,link,133k+,Minneapolis,,,,469.52,441.3,6.39%,1405,2320,-39.45%,4128,3410,21.05%,16346,16199,0.90%,136767
+,14R9oDsRa1u5jNxdMDzzwonwqiZ5jxrLmng1RSMM1CbSvR5qgw9,link,link,59k+,Minneapolis,,,,63.2,78.41,-19.40%,200,411,-51.17%,698,680,2.59%,3518,3409,3.12%,59786
+"Chicago, IL #1",144bdZPcErfZ4DTLboF4M1hMDmBdULVdznSwm7HohUQnF6zzkk7,link,link,27k+,Chicago Cluster,Y,,RAK hacked with middleman,54.1,127.66,-57.62%,306,635,-51.85%,1614,5900,-72.64%,20682,7601,63.25%,28283
+"Chicago, IL #2",14feommvji6eDM5oThn9sStcXMr6p9udGRotEdKGH6xWptt3Aci,link,link,34k+,Chicago Cluster,Y,Appears to be same person as behind Chicago #1 - these are running on some of the same AWS servers ,RAK hacked with middleman,51.88,133.95,-61.27%,307,931,-67.04%,2024,5311,-61.90%,22057,13383,39.32%,35441
+Chicago (seems to be real),13hZcW2J69JUK6vodvzR7PhA5BKNAgEUsi466WBbTw2EhAqVxej,link,link,100k+,Chicago Cluster,,Not all appear to be cheating. Dancing Gingham Shetland is witnessed by many others in the cluster,,627.32,587.39,6.80%,1821,2100,-13.27%,4700,4810,-2.28%,20453,22558,-10.29%,111306
+,14fJkdHMno2t134pnNNiw7K2AY213iW7gppQv2WqVvC7UtM2wza,link,link,6k+,Chicago Cluster,,,,104.62,99.61,5.03%,311,543,-42.80%,1260,3568,-64.70%,6391,0,100.00%,6391
+Eagle Harbor Township (Chicago) / Northern Canada,14SE3mB84mmygJSUgjPRTzstyAaqLsScaQSuCse9zrLPLJFU4fr,link,link,28k,Chicago Cluster,Y,Same person as Chicago #1 and Chicago #2 - running on some of the same servers as well as what appears to be physical hotspots in Chicago,OG and/or RAK hacked with middleman,68.89,35.96,91.57%,175,209,-16.06%,578,1426,-59.50%,6142,12210,-98.78%,61213
+,14Z3UixshrsNUqfhQf21yV43atwkd84JK2Dwm6SFGmpoCZjGx9h,link,link,7k,Chicago Cluster,Y,Same person as Chicago #1 and Chicago #2 - running on some of the same servers as well as what appears to be physical hotspots in Chicago,RAK hacked with middleman,39.15,30.88,26.78%,120,127,-5.05%,394,948,-58.45%,4064,7533,-85.34%,15887
+,14SB5g8mJ8JnZunDUDCrtTbpqQKHyHFZymhB1eSE8p1igKWYPuV,link,link,17k+,Chicago Cluster,Y,,,43.67,37.17,17.49%,137,197,-30.25%,542,1371,-60.49%,6050,11342,-87.46%,17759
+,142FTN8u4kiwH87pf8MTTzehsDd3n8rrWNLap8JQJz514Rg6JYM,link,link,20k+,Chicago Cluster,Y,,,33.2,32.93,0.82%,99,138,-28.35%,370,1013,-63.45%,4603,8923,-93.84%,20827
+,13dTtrbXzJyFzCdrqFAqYs2CvmRYDb3L71NkWJMsjatupc9d6N5,link,link,36k+,Chicago Cluster,Y,,,33.63,34.86,-3.53%,108,180,-40.08%,471,1280,-63.25%,4619,8995,-94.73%,44185
+"Brooklyn, NY",1378sFkMGsvYC5cP3SF2K6guMtGucd1f7CaUGbH3r8Wimtaxzig,link,link,230k+,Brooklyn 1,Y,,,8.78,2.23,293.72%,29,33,-12.42%,97,361,-73.03%,2355,4522,-92.00%,230947
+,14J4vtBZxErChU2462XwQJZkYDSnTeAtBTuPhp61BbBLLxPBCEd,link,link,23k+,Brooklyn 1,,,,42.12,29.55,42.54%,141,1149,-87.74%,2486,9743,-74.49%,36768,46317,-25.97%,108362
+,14UGKeuJCq6hnuoFxW8Q9548XtDC8r6rXvjtnjnEn2kgEpvhkyt,link,link,25k+,Brooklyn 1,,,,91.87,63.39,44.93%,205,202,1.58%,559,1485,-62.36%,4835,5468,-13.10%,29240
+,136cT9qcq4qT3ATPQ2Qc6yKnweA5pJYvNg2duf5FZkPCNFhaTAM,link,link,151k+,Brooklyn 1,,,,798.05,724.25,10.19%,2252,2096,7.44%,4758,3468,37.17%,16843,19154,-13.72%,158245
+"State College, PA",14Cx6WkXKpaD3GFf9VkG8kLsYjQ325y4egFZKs2vJ2hB5Ftrg66,link,link,36k+,,N,Seems to have ceased cheating as of Nov 25 2020,RAK hacked with middleman,93.31,724.25,-87.12%,235,249,-5.67%,710,666,6.62%,8534,22291,-161.21%,36605
+"Smyrna, GA",145Rsn4Gnb1PkgZHLPqbXaPF9FbEKFnScZzsi1K1MFvzxtXrwFh,link,link,41k+,,Y,Are GA clusters linked?,,70.17,109.7,-36.03%,432,510,-15.26%,1231,2627,-53.15%,12055,15312,-27.01%,41990
+"Albany, GA",14rp43jgnc2rgPhdpNESwVjTFD16qXumPKhkpigQ5AzyrEDj8qR,link,link,58k+,,Y,Are GA clusters linked?,,25.1,14.54,72.63%,100,468,-78.62%,903,2196,-58.87%,9332,16737,-79.36%,58423
+,13weLjwYcpo5MKMQqaGZtPmk6SuoJAXUKR2qEyqyD5NAS4NsVea,link,link,27k+,,Y,Are GA clusters linked?,,3.94,15.77,-75.02%,45,242,-81.31%,472,1246,-62.09%,5511,9539,-73.10%,27763
+"Avondale Estates, GA",14qngPw5aSMueTphfZv7V1rh693jbwbpNcYy23S5cGwxGfm1db9,link,link,96k+,,Y,Are GA clusters linked?,,22.16,47.47,-53.32%,147,508,-70.99%,951,1612,-41.00%,6668,14509,-117.61%,100877
+"Augusta, GA",14sPuYhKWMQsp3YYNgqrGDu4iHdmy8G4t5EjYs44gLfG5M1zM3L,link,link,102k+,,,,,296.23,492.73,-39.88%,1253,1254,-0.11%,3457,6407,-46.05%,27943,37015,-32.46%,104644
+"Westland, MI",12xvnaoMLsJtuZs9Zk4rzTdxhXHhGvfVnEG8Xgt9nPcPQkjpUuk,link,link,8k+,,Y,,,7.45,23.47,-68.26%,72,187,-61.56%,382,752,-49.23%,3036,3549,-16.86%,8344
+,14atZYUDMEfbQeXwK6YXmUF3vCKYMaYQoURPQix7UxHGefeucYT,link,link,21k+,,Y,,,93.28,69.29,34.62%,478,469,1.76%,1214,1792,-32.25%,7714,8986,-16.50%,22234
+"Kirkland, WA",13yXU6s9tCw5M96ZoYj5rR2DBPU3XGCNAtr8gg3yWyHUNBZej3A,link,link,41k+,,Y,,RAK hacked with middleman,7.56,10.88,-30.51%,73,589,-87.62%,964,2479,-61.12%,10447,14810,-41.77%,42307
+"Saint Francisville, LA",14D8ZdhB1KJgCqEYfyQqHn84USs9sWQd1s7qUq6HjX3Snx1pcQd,link,link,73k+,,Y,"Perfectly clustered hotspots in Saint Franciville, LA / Missouri / Port Arthur, TX",,31.49,107.11,-70.60%,386,1228,-68.55%,2380,6308,-62.27%,20329,26336,-29.55%,74541
+All around Europe,13dZzbosJTuQekBZq5TAUZ15Sam5iaDoM19FzJVRodkjk5zzrr7,link,link,12K,,Y,London area looks real,,507.79,394.71,28.65%,1400,1296,8.06%,3094,2856,8.35%,12253,1772,85.54%,14025
+"Brooklyn, NY",149WNrC35sVfkFxyFWvnP3R6gYnjSdPCZnMZ7yEbfeFVzkG6wN6,link,link,2k+,Brooklyn 2,Y,Recently transferred hotspots to several other wallets (below),,10.48,14.1,-25.67%,62,595,-89.60%,812,3442,-76.40%,10188,0,100.00%,10188
+"""""",14WBRtjSbQ3qdJbMToN3oYCHFSMnLypXiWRkqvMPxVBrUGTNPyj,link,link,11k+,Brooklyn 2,Y,,,17.49,27.88,-37.27%,103,191,-46.21%,294,0,,294,0,100.00%,294
+"""""",142crAvhZLZHZym6XHHxYmtKA7xzRKkJXTZaxbZfxN1yybyNVS2,link,link,11k+,Brooklyn 2,Y,,,2.83,10.5,-73.05%,31,75,-58.57%,107,0,,107,0,100.00%,107
+"""""",13wRCShSmCDJ47c3s8y9QUHNHCrVsivpX3JKfCJF5muCFQWkuMM,link,link,17k+,Brooklyn 2,Y,,,17.35,55.16,-68.55%,130,211,-38.42%,340,0,,340,0,100.00%,340
+"""""",13HxFTW5FGcmHo84e4YanbkfDnRofaQVYRfFhAsGJ4UXmP4ddCj,link,link,13k+,Brooklyn 2,Y,,,19.16,65.61,-70.80%,145,143,1.30%,288,0,,288,0,100.00%,288
+"""""",13MGNMxdEYUJfqvsJUMFLtJSYSMCghSAzmru4jdGr6jDbyam6mp,link,link,9k+,Brooklyn 2,Y,,,16.02,48.21,-66.77%,146,216,-32.39%,362,0,,362,0,100.00%,362
+"""""",14rsKYPzwDGkvYKE7i7s6GGvWaiHRzRcBntEsJyrEFQzAvLCaby,link,link,12k+,Brooklyn 2,Y,,,30.51,40.45,-24.57%,173,212,-18.17%,385,0,,385,0,100.00%,385
+"""""",13Bc3Sqrvak2PD8xCHqoHUPNxM1WYDKUujCG93ELnwVuLgP9pnW,link,link,21k+,Brooklyn 2,Y,,,33.72,50.99,-33.87%,179,229,-21.82%,408,0,,408,0,100.00%,408
+"""""",13BzrLiFoZq1tS3LW2fjrnRegxHFT1KfanQC2XR5onJRENiWZku,link,link,19k+,Brooklyn 2,Y,,,29.55,52.74,-43.97%,165,223,-26.11%,388,0,,388,0,100.00%,388
+"""""",13pjYJJEssma9iFdYCoaTv71F7Nbv2hnn3p36UMKp3BTd4YcJQU,link,link,14k+,Brooklyn 2,Y,,,10.95,44.63,-75.46%,124,194,-36.12%,318,0,,318,0,100.00%,318
+"Bolton (was salford), UK",14gXwZzmmYVfSW61dfZbbaEu2n4ogHUwyZQH4Gp6fYvaG7XZJob,link,link,37k+,Bolton/Salford,Y,"Impressive symmetry, some in open fields. Plus this group just moved as one from Salford. the HIP19 map caught it mid move.",,68.18,290.93,-76.56%,817,1116,-26.79%,2478,4639,-46.58%,13331,13862,-3.99%,38054
+,14DVYZUFYPa6W3FJxe25j8DjJv2BB7nKeaErPJ2XhHwh8hknYEP,link,link,32k+,,,Not a gamer - This is Emrits largest UK regional partner. Has had 12 stolen so these may be creating confusing data,,585.38,410.13,42.73%,1376,1398,-1.53%,3283,3972,-17.35%,17328,14663,15.38%,34229
+"Blackpool, UK",146SS9FgqKcXz4m8gEGJ1HybnRrKheKnd5MiRpNJ3gaKPY9115a,link,link,72k+,Blackpool,,"This is probably a real person, just providing excessive coverage in undesirable location and winning to HIP17. From frequent movers list. If not real then has to be faking mapping information on mapping site as well",Likely false positive,1244.99,946.31,31.56%,3194,2991,6.78%,6757,5069,33.30%,25187,30948,-22.87%,74930
+Possible Canada Gamer,14jF6o775mdvRTiqeCfF8pgQ9imgEGiJYfb2wYCDUA3DD9a471f,link,link,43k+,Quebec Islands 1,,From frequent movers list,,294.59,339.09,-13.12%,1158,1649,-29.78%,3188,2885,10.48%,13982,15496,-10.83%,43607
+"""""",14GzLwUP3qcNvxrMcu4s5NrALucMGWh41NgnPSWwSMwoY1gDcrD,link,link,4k,Quebec Islands 1,,,,68.8,148.46,-53.66%,466,824,-43.50%,1460,1278,14.24%,4152,0,100.00%,4152
+"""""",13xFsGNpMGpcgvPQAnTFDaRgEFjfgMGRdzYuW8L8uqPDnTPRw5g,link,link,10k,Quebec Islands 1,,,,24.15,42.45,-43.11%,127,478,-73.49%,1031,3252,-68.30%,7990,1914,76.04%,9904
+California Gamer,14CWV8cMpy7QtwNDWVJL2vQBW574cZgqGqnZaJ1jcVQ4e5kTh8k,link,link,420k+,,,From frequent movers list,,353.37,250.46,41.09%,895,1511,-40.77%,3018,4573,-34.00%,19746,37165,-88.22%,442163
+Possible Welsh Gamer (looks like it's real),14L8jfWjDWMVD3Z31ZAEWuj15ZiKZvbYoS14BxF7Tptqvwy129W,link,link,51k,,,From frequent movers list,,1253.99,1015.21,23.52%,3273,3091,5.88%,7074,6464,9.44%,28219,19355,31.41%,54058
+"Hollywood, FL",14FvBfvRkERkW4RrR16i5NharQh8Ehjq77RowbpWbdxUiHAXUdi,link,link,234k+,,,From frequent movers list,,105.42,135.74,-22.34%,359,594,-39.52%,1166,1741,-33.04%,7904,22816,-188.67%,249484
+"Key West, FL",131uuuyiYrPczy1aCKDBhvxYTG7ZMNfnZnKgemesd3CZEe3y6EU,link,link,176k+,,,From frequent movers list,,363.81,202.72,79.46%,1178,1578,-25.39%,3211,3193,0.57%,15657,23981,-53.16%,182429
+Now empty account,11mDvgivxw6kmv33wBikeSxtLHMJNUwfWBvgZbEoATXVP75S41s,link,link,,,,"Lots of suspicious RSSI/SNR combos combined with legitimate looking witnesses. Frequent overlapping with some other accounts in the area, possibly co-owned. ",,,,,,,,,,,,,,
+"Centential, CO",146yE8AatTo5oKjanEEbDePciqdRs4kQ35dcTMAkstx67sLNUqZ,link,link,20k,,,"Lots of suspicious RSSI/SNR combos combined with legitimate looking witnesses. Frequent overlapping with some other accounts in the area, possibly co-owned. Probably same owner as account above (11mDvgivxw6kmv33wBikeSxtLHMJNUwfWBvgZbEoATXVP75S41s) which was emptied out. ",,,,,,,,,,,,,,
+All around Europe,149NeTwaGXMuKsSxs6GRNsye4An8gCPjeGtHUtUVVK7xRHnGKP6,link,link,,,,"About 100 hotspots added in a span of 8-10 hours, fresh wallet, all adounr Europe (Maybe it's Emrit?) Could someone check this?",,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,Totals,14842.17,16680.57,-11.02%,50293,73056,-31.16%,151342,218525,-30.74%,870197,1035143,-18.96%,10742972
+,,,,,,,,,,,,,,,,,,,,,
+,,,,,,,,aggregate,latest,previous,,,,,,,,,,,
+,,,,,,,,1d,14842,16034,-7.43%,,,,,,,,,,
+,,,,,,,,3d,50293,73056.19,-31.16%,,,,,,,,,,
+,,,,,,,,7d,151342.38,218525.25,-30.74%,,,,,,,,,,
+,,,,,,,,30d,870197.27,1035143.34,-15.93%,,,,,,,,,,
+,,,,,,,,alltime,,10742971.95,,,,,,,,,,,
