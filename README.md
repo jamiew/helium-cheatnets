@@ -1,11 +1,11 @@
 Cheatnets R Us
 ==============
 
-Data analysis helpers
+Data helper scripts for working with the crowdsourced Helium hotspot cheatnet tracker: [Google Sheet](https://docs.google.com/spreadsheets/d/1tqs-9xE7tB9Vlk_cgx1dmakRocPoqm3dPsMHVvqAfOs/edit?ts=5fec2a61#gid=0)
 
-Crowdsourced cheatnet tracker: [Google Sheet](https://docs.google.com/spreadsheets/d/1tqs-9xE7tB9Vlk_cgx1dmakRocPoqm3dPsMHVvqAfOs/edit?ts=5fec2a61#gid=0)
+Please note this is an extremely unofficial community effort, and is a work in progress.
 
-To submit a cheatnet: TODO setup a Google Form and make the above comment-only
+To submit a cheatnet, just add it to the Google Sheet above.
 
 Usage
 -----
